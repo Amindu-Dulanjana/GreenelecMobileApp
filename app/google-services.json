@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "156355712200",
+    "project_id": "greenelec-f0c09",
+    "storage_bucket": "greenelec-f0c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156355712200:android:1b0e7edf371b98240a41fd",
+        "android_client_info": {
+          "package_name": "lk.ads.app.greenelec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156355712200-kq0ir2mt88g0g6f53r15f6d5rnif3q5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.ads.app.greenelec",
+            "certificate_hash": "861f38fd86508881a93a9db7150249e2ff7bc17a"
+          }
+        },
+        {
+          "client_id": "156355712200-p4cggqb4eq69a4gnlc2go7hf8k1bsvev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUvngmlWZxWd9kBP0sFrWC4hhP-7lSmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156355712200-p4cggqb4eq69a4gnlc2go7hf8k1bsvev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Greenelec</string>
+    <string name="app_title">Online Shop</string>
+    <string name="app_version">V 1.0.0</string>
+    <string name="app_copy_right">Copyright © 2023 | ADSc. All rights reserved.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Login</string>
+    <string name="action_home">Home</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_message">Message</string>
+    <string name="action_profile">Profile</string>
+    <!-- Strings related to login -->
+    <string name="login_title">Already have an Account?</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="login_btn">Sign in</string>
+    <string name="other_option_login">Use other methods</string>
+    <string name="action_signup">New User? Register Now</string>
+    <string name="signIn_google_account">Sign In with Google Account</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="search_products_hint">Search Products</string>
+    <string name="signIn_facebook_account">Sign In with Facebook</string>
+    <string name="action_gotoHome">Back to the Home</string>
+    <string name="web_client_id">156355712200-p4cggqb4eq69a4gnlc2go7hf8k1bsvev.apps.googleusercontent.com</string>
+    <!--String related to register-->
+    <string name="register_title">Here\'s your first step with us!</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_phone">Mobile Number</string>
+    <string name="register_btn">Register</string>
+    <string name="action_goto_login">Already have an Account? Login Now</string>
+    <string name="action_about_us">About Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_contact_us">Contact Us</string>
+    <string name="btn_shop_locations">Shop Locations</string>
+    <string name="app_description">Enjoy a seamless shopping experience with our user-friendly interface. Browse through our catalog, read product descriptions, and make informed choices about the products that matter to you and the planet.</string>
+    <string name="title_join_our_social_medias">Join Our Social Medias</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_all_products">All Products</string>
+
+</resources>

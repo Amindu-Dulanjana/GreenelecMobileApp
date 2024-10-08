@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Greenelec" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/themeColour</item>
+    </style>
+
+    <style name="Theme.Greenelec" parent="Base.Theme.Greenelec" />
+
+    <style name="Theme.Greenelec.FullScreen" parent="Theme.Greenelec">
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

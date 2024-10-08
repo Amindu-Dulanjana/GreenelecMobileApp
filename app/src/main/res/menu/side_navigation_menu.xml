@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:id="@+id/side_navigation_main_group">
+    <item
+        android:id="@+id/sideNavHome"
+        android:title="@string/action_home"
+        android:icon="@drawable/home_icon"
+        android:checked="true"/>
+    <item
+        android:id="@+id/sideNavProfile"
+        android:title="@string/action_profile"
+        android:icon="@drawable/person_icon" />
+    <item
+        android:id="@+id/sideNavCart"
+        android:title="@string/action_cart"
+        android:icon="@drawable/cart_icon"
+        android:visible="true"/>
+    <item
+        android:id="@+id/sideNavFavorite"
+        android:title="@string/action_favorite"
+        android:icon="@drawable/favorite_icon" />
+    <item
+        android:id="@+id/sideNavMessage"
+        android:title="@string/action_message"
+        android:icon="@drawable/message_icon" />
+    <item
+        android:id="@+id/sideNavSettings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/settings_icon" />
+</group>
+    <group android:id="@+id/side_navigation_Auth_group">
+        <item
+            android:id="@+id/sideNavLogin"
+            android:title="@string/action_login"
+            android:icon="@drawable/login_icon"
+            android:visible="true"/>
+        <item
+            android:id="@+id/sideNavLogout"
+            android:title="@string/action_logout"
+            android:icon="@drawable/logout_icon" />
+        <item
+            android:id="@+id/sideNavHelp"
+            android:title="@string/action_about_us"
+            android:icon="@drawable/help_center_icon"
+            android:visible="true"/>
+    </group>
+</menu>
